@@ -7,14 +7,12 @@
 	"repository":{
 		"type": "git",
 		"url": "https://github.com/hmalik108/nodebook-dayley/tree/master/censorify",
-	}
+	},
 	"keywords": [
 		"censor",
 		"words"
 
-	]
-
-
+	],
 	"dependencies":{},
 	"engines":{
 		"node":"*"
