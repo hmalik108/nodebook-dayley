@@ -52,3 +52,7 @@ account.deposit(300);
 account.deposit(300);
 
 account.withdraw(1001);
+
+
+console.log("checking listeners with a event",account.listeners("balanceChanged"));
+
